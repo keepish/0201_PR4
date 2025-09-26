@@ -3,8 +3,13 @@
 Проект для работы в команде с целью развить свои профессиональные навыки
 ## Установка
 Инструкции по установке:
+
 bash
-git clone https://github.com/keepish/0201_PR4 cd 0201_PR4
+
+git clone https://github.com/keepish/0201_PR4 
+
+cd 0201_PR4
+
 dotnet build
 ## Использование
 Ключевые команды или параметры: bash dotnet run
