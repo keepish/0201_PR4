@@ -14,6 +14,7 @@ dotnet build
 2. База данных (SQL Server)
 ## Авторы
 [Колосов Вадим](https://github.com/keepish) - Разработчик
+
 [Маратканов Андрей](https://github.com/AndMar20) - Разработчик
 ## Лицензия
 Аpache 2.0.
